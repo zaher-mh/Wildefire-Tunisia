@@ -8,7 +8,7 @@ A simple web app that uses NASA's Active Fire Data to monitor wildfire in Tunisi
 
 - ```python web_app.py```
 
-- Point browser to ```localhost:8080\active-fires
+- Point browser to ```localhost:8080\active-fires ```
 
 # Screenshot
 ![Screenshot](Screenshot.png)
