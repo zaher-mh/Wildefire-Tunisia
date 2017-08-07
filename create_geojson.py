@@ -47,7 +47,3 @@ def construct_geojson():
     }
         '''
     return output
-    # opens an geoJSON file to write the output to
-    #outFileHandle = open("/home/zaher/other_projects/tnelec/leaflet/output.geojson", "w")
-    #outFileHandle.write(output)
-    #outFileHandle.close()
